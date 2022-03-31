@@ -35,9 +35,6 @@ This app will help users:
 
 Every page has an AppBar and Navigation Bar to switch between pages.
 
-You can also check out this video to see the functionalities -
-
-https://youtu.be/gBsRnX6NDv0
 
 
 ## Technologies
